@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    height: 1000px;
+    justify-content: center;
+    background-image: url(foto\ fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+ 
+form {
+    background: linear-gradient(to right,#d16464,#2f313a);
+    margin: auto;
+    border-radius: 10px;
+} 
+form .grupo{
+
+    position: relative;
+    margin: 55px;
+    
+} 
+form .boton{
+    text-align: center;
+    margin: 20px;
+    
+}
+}
