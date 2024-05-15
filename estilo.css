@@ -1,27 +1,23 @@
 body {
-    display: flex;
-    height: 1000px;
-    justify-content: center;
-    background-image: url(foto\ fondo.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+  display: flex;
+  height: 1000px;
+  justify-content: center;
+  background-image: url(fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 
- 
-form {
-    background: linear-gradient(to right,#d16464,#2f313a);
+  form {
+    background: radial-gradient(#ffffff, #5e5f61);
     margin: auto;
     border-radius: 10px;
-} 
-form .grupo{
-
+  }
+  form .grupo {
     position: relative;
     margin: 55px;
-    
-} 
-form .boton{
+  }
+  form .boton {
     text-align: center;
     margin: 20px;
-    
-}
+  }
 }
